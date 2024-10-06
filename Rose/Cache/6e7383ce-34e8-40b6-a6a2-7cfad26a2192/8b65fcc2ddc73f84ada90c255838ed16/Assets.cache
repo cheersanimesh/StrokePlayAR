@@ -1,0 +1,15 @@
+- !<AssetCache/8b65fcc2-ddc7-3f84-ada9-0c255838ed16>
+  AssetFiles:
+    8d5a6712-9588-48b5-9f69-0e53846232b9: 6e7383ce-34e8-40b6-a6a2-7cfad26a2192/8b65fcc2ddc73f84ada90c255838ed16/Data/tomato_color.png
+  AssetCurrentFiles:
+    8d5a6712-9588-48b5-9f69-0e53846232b9: 6e7383ce-34e8-40b6-a6a2-7cfad26a2192/8b65fcc2ddc73f84ada90c255838ed16/Data/Performance/Medium/tomato_color.pvr
+  Assets:
+    - !<FileTexture/8d5a6712-9588-48b5-9f69-0e53846232b9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 8b65fcc2ddc73f84ada90c255838ed16
+  FileHash: a9d830a9ec0cc952db82b9ba32b04ce3
+  NativePackageItems:
+    []

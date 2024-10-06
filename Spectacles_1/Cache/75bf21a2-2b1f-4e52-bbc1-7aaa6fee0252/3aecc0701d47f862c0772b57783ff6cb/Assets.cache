@@ -1,0 +1,18 @@
+- !<AssetCache/3aecc070-1d47-f862-c077-2b57783ff6cb>
+  AssetFiles:
+    9d6de33d-e1af-4908-b767-cf3798994c66: 75bf21a2-2b1f-4e52-bbc1-7aaa6fee0252/3aecc0701d47f862c0772b57783ff6cb/Data/C_camera_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/9d6de33d-e1af-4908-b767-cf3798994c66>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 266
+        Vertices: 288
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 3aecc0701d47f862c0772b57783ff6cb
+  FileHash: ee91ea822ec270d869d7a89eb427384d
+  NativePackageItems:
+    []

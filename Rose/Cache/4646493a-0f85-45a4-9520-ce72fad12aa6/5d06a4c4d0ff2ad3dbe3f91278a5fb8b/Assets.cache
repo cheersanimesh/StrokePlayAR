@@ -1,0 +1,15 @@
+- !<AssetCache/5d06a4c4-d0ff-2ad3-dbe3-f91278a5fb8b>
+  AssetFiles:
+    65f1e812-b21e-4884-946b-b29e0e042f3c: 4646493a-0f85-45a4-9520-ce72fad12aa6/5d06a4c4d0ff2ad3dbe3f91278a5fb8b/Data/cone_seeds_color.png
+  AssetCurrentFiles:
+    65f1e812-b21e-4884-946b-b29e0e042f3c: 4646493a-0f85-45a4-9520-ce72fad12aa6/5d06a4c4d0ff2ad3dbe3f91278a5fb8b/Data/Performance/Medium/cone_seeds_color.pvr
+  Assets:
+    - !<FileTexture/65f1e812-b21e-4884-946b-b29e0e042f3c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 128
+        Height: 128
+  SourceHash: 5d06a4c4d0ff2ad3dbe3f91278a5fb8b
+  FileHash: aae75e577f52783ea28eb9d54360eed6
+  NativePackageItems:
+    []

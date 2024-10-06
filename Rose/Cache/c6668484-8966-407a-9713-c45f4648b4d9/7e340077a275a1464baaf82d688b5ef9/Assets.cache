@@ -1,0 +1,15 @@
+- !<AssetCache/7e340077-a275-a146-4baa-f82d688b5ef9>
+  AssetFiles:
+    05457fea-2568-4b7d-a90c-92346b299057: c6668484-8966-407a-9713-c45f4648b4d9/7e340077a275a1464baaf82d688b5ef9/Data/cheese_samples_color.png
+  AssetCurrentFiles:
+    05457fea-2568-4b7d-a90c-92346b299057: c6668484-8966-407a-9713-c45f4648b4d9/7e340077a275a1464baaf82d688b5ef9/Data/Performance/Medium/cheese_samples_color.pvr
+  Assets:
+    - !<FileTexture/05457fea-2568-4b7d-a90c-92346b299057>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 7e340077a275a1464baaf82d688b5ef9
+  FileHash: 0a1803e5def47de6803063088f10d110
+  NativePackageItems:
+    []

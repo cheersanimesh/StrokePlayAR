@@ -1,0 +1,18 @@
+- !<AssetCache/4be53606-ec58-4c8f-f88b-96ac54843d93>
+  AssetFiles:
+    6ddbc3a4-4313-4a68-9b84-9d8594995a5c: 5a158d06-e707-4448-808e-af0796b480c3/4be53606ec584c8ff88b96ac54843d93/Data/C_cheeseCube_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/6ddbc3a4-4313-4a68-9b84-9d8594995a5c>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 12
+        Vertices: 24
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 4be53606ec584c8ff88b96ac54843d93
+  FileHash: 5cbdfa64feef5f379bc6dae370eefced
+  NativePackageItems:
+    []

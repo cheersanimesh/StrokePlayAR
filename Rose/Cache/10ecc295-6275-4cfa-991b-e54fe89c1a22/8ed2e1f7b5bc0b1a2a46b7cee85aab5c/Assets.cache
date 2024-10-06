@@ -1,0 +1,18 @@
+- !<AssetCache/8ed2e1f7-b5bc-0b1a-2a46-b7cee85aab5c>
+  AssetFiles:
+    5d30a632-9a50-43fc-a62e-e79b13f119a7: 10ecc295-6275-4cfa-991b-e54fe89c1a22/8ed2e1f7b5bc0b1a2a46b7cee85aab5c/Data/C_sandwich_bit_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/5d30a632-9a50-43fc-a62e-e79b13f119a7>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 336
+        Vertices: 302
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 8ed2e1f7b5bc0b1a2a46b7cee85aab5c
+  FileHash: 144a756be5eb969f8fb7582546dfaba7
+  NativePackageItems:
+    []

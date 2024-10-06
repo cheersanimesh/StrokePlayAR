@@ -1,0 +1,18 @@
+- !<AssetCache/26408400-3d13-10e3-129d-f9bfdb828f18>
+  AssetFiles:
+    c3eeba99-eca1-4f63-beee-cae28d93aff5: 36f59c8a-6a6d-4550-ac3a-7a77d5b6d533/264084003d1310e3129df9bfdb828f18/Data/C_seedCone_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/c3eeba99-eca1-4f63-beee-cae28d93aff5>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 376
+        Vertices: 337
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 264084003d1310e3129df9bfdb828f18
+  FileHash: a8768509f2bfd5c3b82e8f3cdf3962f7
+  NativePackageItems:
+    []

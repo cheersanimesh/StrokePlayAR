@@ -1,0 +1,18 @@
+- !<AssetCache/d0d76b25-75d2-6f53-1baf-768e7e9e67a9>
+  AssetFiles:
+    61cd0322-6cee-4cad-843d-a14427cf83df: f63593d6-53db-4c08-94ef-f738d4b6a5dc/d0d76b2575d26f531baf768e7e9e67a9/Data/C_steak_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/61cd0322-6cee-4cad-843d-a14427cf83df>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 152
+        Vertices: 146
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d0d76b2575d26f531baf768e7e9e67a9
+  FileHash: 637f638fe2f212f81f3903a868c610b4
+  NativePackageItems:
+    []

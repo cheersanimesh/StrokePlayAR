@@ -1,0 +1,18 @@
+- !<AssetCache/c4c27232-472c-1c0f-6479-a842a2ac1989>
+  AssetFiles:
+    4e667581-19f6-4411-ad31-c0963b6dcfba: 7fdf7a6e-f9c8-4be3-ad7d-1de2237bcf6c/c4c27232472c1c0f6479a842a2ac1989/Data/C_salad_leaf_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/4e667581-19f6-4411-ad31-c0963b6dcfba>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 336
+        Vertices: 186
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: c4c27232472c1c0f6479a842a2ac1989
+  FileHash: 359fca41846cba934586ecbc02ba1a2c
+  NativePackageItems:
+    []

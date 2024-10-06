@@ -1,0 +1,15 @@
+- !<AssetCache/d82de49d-9660-4d8c-31c4-45f786e05ae4>
+  AssetFiles:
+    53e9831a-04c1-41eb-9fd3-da62154077a4: 50dadafc-8a31-45e2-a61e-e96b273f8e5b/d82de49d96604d8c31c445f786e05ae4/Data/dip_color.png
+  AssetCurrentFiles:
+    53e9831a-04c1-41eb-9fd3-da62154077a4: 50dadafc-8a31-45e2-a61e-e96b273f8e5b/d82de49d96604d8c31c445f786e05ae4/Data/Performance/Medium/dip_color.pvr
+  Assets:
+    - !<FileTexture/53e9831a-04c1-41eb-9fd3-da62154077a4>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: d82de49d96604d8c31c445f786e05ae4
+  FileHash: 0d5f3715d460dfb32d46f437bd29ded1
+  NativePackageItems:
+    []

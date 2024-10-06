@@ -1,0 +1,18 @@
+- !<AssetCache/b3e98c22-8d8a-088c-0b8a-e081147dcb5c>
+  AssetFiles:
+    806e64cb-9f72-47cc-9fc2-324d7dfc610a: f166afe8-42d5-487a-9cee-c78f4c028d89/b3e98c228d8a088c0b8ae081147dcb5c/Data/C_cone_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/806e64cb-9f72-47cc-9fc2-324d7dfc610a>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 270
+        Vertices: 336
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: b3e98c228d8a088c0b8ae081147dcb5c
+  FileHash: 0703ee5fa4d17e8cc49e9dbfe330edda
+  NativePackageItems:
+    []

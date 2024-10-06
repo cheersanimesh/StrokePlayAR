@@ -1,0 +1,15 @@
+- !<AssetCache/326ef377-e45e-7017-eb60-894fad6b5203>
+  AssetFiles:
+    4a2a4ef0-81b9-402f-8337-284b76df75b9: 12e29ab8-42c6-40f7-987f-9d553c83098f/326ef377e45e7017eb60894fad6b5203/Data/battery_graphic_color.png
+  AssetCurrentFiles:
+    4a2a4ef0-81b9-402f-8337-284b76df75b9: 12e29ab8-42c6-40f7-987f-9d553c83098f/326ef377e45e7017eb60894fad6b5203/Data/Performance/Medium/battery_graphic_color.pvr
+  Assets:
+    - !<FileTexture/4a2a4ef0-81b9-402f-8337-284b76df75b9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 326ef377e45e7017eb60894fad6b5203
+  FileHash: 4660d80c588b584904c06862ab8d2c20
+  NativePackageItems:
+    []

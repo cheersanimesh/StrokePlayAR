@@ -1,0 +1,15 @@
+- !<AssetCache/3ea61ce5-43db-08c7-ec14-960e1334061d>
+  AssetFiles:
+    84cac39a-fcce-4e0c-96e8-c1bd6dbe6b76: 841ffa7b-9366-4030-b313-edbd3a5cb88c/3ea61ce543db08c7ec14960e1334061d/Data/hot_sauce_color.png
+  AssetCurrentFiles:
+    84cac39a-fcce-4e0c-96e8-c1bd6dbe6b76: 841ffa7b-9366-4030-b313-edbd3a5cb88c/3ea61ce543db08c7ec14960e1334061d/Data/Performance/Medium/hot_sauce_color.pvr
+  Assets:
+    - !<FileTexture/84cac39a-fcce-4e0c-96e8-c1bd6dbe6b76>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 3ea61ce543db08c7ec14960e1334061d
+  FileHash: 8331a02ec9991c2d529661c1f07d6896
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/ffa00efe-084e-9eb2-860f-34d474e1882a>
+  AssetFiles:
+    66f139f9-c975-4eea-b4ac-b3265a368479: 991f56d6-d335-46c0-87f4-51b05f349ce2/ffa00efe084e9eb2860f34d474e1882a/Data/C_cap_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/66f139f9-c975-4eea-b4ac-b3265a368479>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 192
+        Vertices: 162
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: ffa00efe084e9eb2860f34d474e1882a
+  FileHash: 54b06348098372eba25dd38f7b310ea2
+  NativePackageItems:
+    []

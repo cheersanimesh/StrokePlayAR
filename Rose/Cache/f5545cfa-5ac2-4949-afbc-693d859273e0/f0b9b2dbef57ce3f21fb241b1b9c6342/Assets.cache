@@ -1,0 +1,15 @@
+- !<AssetCache/f0b9b2db-ef57-ce3f-21fb-241b1b9c6342>
+  AssetFiles:
+    0d620892-3c6a-48cf-b9fd-a5779d8c1856: f5545cfa-5ac2-4949-afbc-693d859273e0/f0b9b2dbef57ce3f21fb241b1b9c6342/Data/steak_color.png
+  AssetCurrentFiles:
+    0d620892-3c6a-48cf-b9fd-a5779d8c1856: f5545cfa-5ac2-4949-afbc-693d859273e0/f0b9b2dbef57ce3f21fb241b1b9c6342/Data/Performance/Medium/steak_color.pvr
+  Assets:
+    - !<FileTexture/0d620892-3c6a-48cf-b9fd-a5779d8c1856>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: f0b9b2dbef57ce3f21fb241b1b9c6342
+  FileHash: 2f2c7344e6e51cb3ee35d3fd35136c20
+  NativePackageItems:
+    []

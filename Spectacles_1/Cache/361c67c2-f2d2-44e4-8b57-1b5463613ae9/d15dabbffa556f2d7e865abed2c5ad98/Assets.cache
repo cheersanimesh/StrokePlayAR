@@ -1,0 +1,15 @@
+- !<AssetCache/d15dabbf-fa55-6f2d-7e86-5abed2c5ad98>
+  AssetFiles:
+    72ecced8-531f-46f6-b258-fe71c71faba8: 361c67c2-f2d2-44e4-8b57-1b5463613ae9/d15dabbffa556f2d7e865abed2c5ad98/Data/tripod_color.png
+  AssetCurrentFiles:
+    72ecced8-531f-46f6-b258-fe71c71faba8: 361c67c2-f2d2-44e4-8b57-1b5463613ae9/d15dabbffa556f2d7e865abed2c5ad98/Data/Performance/Medium/tripod_color.pvr
+  Assets:
+    - !<FileTexture/72ecced8-531f-46f6-b258-fe71c71faba8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: d15dabbffa556f2d7e865abed2c5ad98
+  FileHash: baf87b4ae2f41e37f851bf417f1d58f9
+  NativePackageItems:
+    []

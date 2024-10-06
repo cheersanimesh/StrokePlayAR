@@ -1,0 +1,18 @@
+- !<AssetCache/1ba3d373-d000-6a38-6a4b-a7ca5848ae33>
+  AssetFiles:
+    8a592015-5794-4c13-8c56-b43d843893e1: 483c4a1a-f954-46f1-82d7-0029d6f20f4c/1ba3d373d0006a386a4ba7ca5848ae33/Data/C_appleTrapDoor_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/8a592015-5794-4c13-8c56-b43d843893e1>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 1192
+        Vertices: 1240
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 1ba3d373d0006a386a4ba7ca5848ae33
+  FileHash: 7ad1b656b5d2ec3befab954350af3da6
+  NativePackageItems:
+    []

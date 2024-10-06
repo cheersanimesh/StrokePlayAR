@@ -1,0 +1,18 @@
+- !<AssetCache/ea8afd13-f174-5607-2ca8-1d782fef6444>
+  AssetFiles:
+    d8d1f87b-0645-4fd4-aed7-2af807247c84: 9e9948b2-c078-409c-85e2-7e8a052b8560/ea8afd13f17456072ca81d782fef6444/Data/C_toothpick_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/d8d1f87b-0645-4fd4-aed7-2af807247c84>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 8
+        Vertices: 16
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: ea8afd13f17456072ca81d782fef6444
+  FileHash: 5850e6bb4d5b74ff6f42dbaa49f94b92
+  NativePackageItems:
+    []

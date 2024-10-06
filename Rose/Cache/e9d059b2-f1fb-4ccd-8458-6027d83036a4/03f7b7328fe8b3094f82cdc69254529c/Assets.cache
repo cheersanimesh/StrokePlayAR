@@ -1,0 +1,18 @@
+- !<AssetCache/03f7b732-8fe8-b309-4f82-cdc69254529c>
+  AssetFiles:
+    a45f2f9d-a2e3-44b3-a267-31d70423362e: e9d059b2-f1fb-4ccd-8458-6027d83036a4/03f7b7328fe8b3094f82cdc69254529c/Data/C_popcorn_Bucket_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/a45f2f9d-a2e3-44b3-a267-31d70423362e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 328
+        Vertices: 274
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 03f7b7328fe8b3094f82cdc69254529c
+  FileHash: 6d7b53d6c3da1d96707c210be1aaa4e0
+  NativePackageItems:
+    []

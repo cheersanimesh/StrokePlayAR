@@ -1,0 +1,15 @@
+- !<AssetCache/2ea541a0-34be-3878-ff09-c75f03614a55>
+  AssetFiles:
+    ab7e4a76-febe-4bfc-b5b3-abd813310844: 8e68b768-b69f-4621-a284-2be3fdb041c8/2ea541a034be3878ff09c75f03614a55/Data/clock_digital_color.png
+  AssetCurrentFiles:
+    ab7e4a76-febe-4bfc-b5b3-abd813310844: 8e68b768-b69f-4621-a284-2be3fdb041c8/2ea541a034be3878ff09c75f03614a55/Data/Performance/Medium/clock_digital_color.pvr
+  Assets:
+    - !<FileTexture/ab7e4a76-febe-4bfc-b5b3-abd813310844>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 2ea541a034be3878ff09c75f03614a55
+  FileHash: a6bec2e6379ae2b98ee3b451296a8d17
+  NativePackageItems:
+    []

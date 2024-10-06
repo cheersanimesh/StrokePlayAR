@@ -1,0 +1,15 @@
+- !<AssetCache/f87e9967-35e8-b457-3aa8-ef063c6d050d>
+  AssetFiles:
+    722bbb11-c68a-4941-8a55-ea010146a023: 5b1574b4-8a29-4a66-bf74-7ae493b4e589/f87e996735e8b4573aa8ef063c6d050d/Data/salad_leaf_color.png
+  AssetCurrentFiles:
+    722bbb11-c68a-4941-8a55-ea010146a023: 5b1574b4-8a29-4a66-bf74-7ae493b4e589/f87e996735e8b4573aa8ef063c6d050d/Data/Performance/Medium/salad_leaf_color.pvr
+  Assets:
+    - !<FileTexture/722bbb11-c68a-4941-8a55-ea010146a023>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: f87e996735e8b4573aa8ef063c6d050d
+  FileHash: acf2140d69aec6c41335e2cf3ea1d74f
+  NativePackageItems:
+    []

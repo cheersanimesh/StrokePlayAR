@@ -1,0 +1,15 @@
+- !<AssetCache/9d17b160-1e4f-a464-f7f6-0aa4de63bbea>
+  AssetFiles:
+    a8ba5a1a-cc8d-4fb4-a84d-23d18f1849f3: 7fe861c3-8772-4e2d-8177-8d5c287d1949/9d17b1601e4fa464f7f60aa4de63bbea/Data/chip_color.png
+  AssetCurrentFiles:
+    a8ba5a1a-cc8d-4fb4-a84d-23d18f1849f3: 7fe861c3-8772-4e2d-8177-8d5c287d1949/9d17b1601e4fa464f7f60aa4de63bbea/Data/Performance/Medium/chip_color.pvr
+  Assets:
+    - !<FileTexture/a8ba5a1a-cc8d-4fb4-a84d-23d18f1849f3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 9d17b1601e4fa464f7f60aa4de63bbea
+  FileHash: 0f03c4a5daafa32b2685a99ef0a2eee0
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/fe952dbe-84cd-6000-011f-3f9e6f1715af>
+  AssetFiles:
+    ca22d1a0-5c9e-4892-b5ee-53f67e766f2f: 77787baf-86b6-4046-b2a6-fca9705d7ca0/fe952dbe84cd6000011f3f9e6f1715af/Data/C_pieBite_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ca22d1a0-5c9e-4892-b5ee-53f67e766f2f>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 56
+        Vertices: 92
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: fe952dbe84cd6000011f3f9e6f1715af
+  FileHash: aeb9fd89179549191a19bc03858b7516
+  NativePackageItems:
+    []

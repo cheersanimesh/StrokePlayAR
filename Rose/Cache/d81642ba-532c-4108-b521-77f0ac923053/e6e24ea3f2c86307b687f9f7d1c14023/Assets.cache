@@ -1,0 +1,18 @@
+- !<AssetCache/e6e24ea3-f2c8-6307-b687-f9f7d1c14023>
+  AssetFiles:
+    e02b3c49-727c-4628-96c8-f2e930f328fd: d81642ba-532c-4108-b521-77f0ac923053/e6e24ea3f2c86307b687f9f7d1c14023/Data/C_popcornKernel_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e02b3c49-727c-4628-96c8-f2e930f328fd>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 274
+        Vertices: 203
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: e6e24ea3f2c86307b687f9f7d1c14023
+  FileHash: ffd0dec79134863dcee99290ad0868f0
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/46a197e3-33e4-e927-0cce-1c4efbfd663e>
+  AssetFiles:
+    e089d8f8-37e7-4033-bbcf-8b9134102421: 4af7dd58-936f-4fc8-957c-c9976088e512/46a197e333e4e9270cce1c4efbfd663e/Data/ketchup_bottle_color.png
+  AssetCurrentFiles:
+    e089d8f8-37e7-4033-bbcf-8b9134102421: 4af7dd58-936f-4fc8-957c-c9976088e512/46a197e333e4e9270cce1c4efbfd663e/Data/Performance/Medium/ketchup_bottle_color.pvr
+  Assets:
+    - !<FileTexture/e089d8f8-37e7-4033-bbcf-8b9134102421>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 46a197e333e4e9270cce1c4efbfd663e
+  FileHash: 854f67acc9478abb9e5c74081f96faad
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/9024483c-d77a-126c-1da9-82fa809e175c>
+  AssetFiles:
+    08208e93-1344-487b-8bc6-915d978c268e: 091523c2-423f-403f-a636-697a4135c1b7/9024483cd77a126c1da982fa809e175c/Data/C_cereal_box_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/08208e93-1344-487b-8bc6-915d978c268e>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 12
+        Vertices: 24
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 9024483cd77a126c1da982fa809e175c
+  FileHash: 5614b5ca96892b617ae2644ee9af2c33
+  NativePackageItems:
+    []

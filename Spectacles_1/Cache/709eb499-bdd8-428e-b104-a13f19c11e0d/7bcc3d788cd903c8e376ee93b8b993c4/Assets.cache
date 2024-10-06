@@ -1,0 +1,18 @@
+- !<AssetCache/7bcc3d78-8cd9-03c8-e376-ee93b8b993c4>
+  AssetFiles:
+    768a718e-cc78-4ba5-b40d-e6bac739bfb5: 709eb499-bdd8-428e-b104-a13f19c11e0d/7bcc3d788cd903c8e376ee93b8b993c4/Data/C_digitalClock_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/768a718e-cc78-4ba5-b40d-e6bac739bfb5>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 82
+        Vertices: 114
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 7bcc3d788cd903c8e376ee93b8b993c4
+  FileHash: e51924f43ba119aebe6aed9032ff90cb
+  NativePackageItems:
+    []

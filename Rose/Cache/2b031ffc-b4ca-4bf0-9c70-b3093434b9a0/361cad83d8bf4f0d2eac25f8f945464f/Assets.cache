@@ -1,0 +1,15 @@
+- !<AssetCache/361cad83-d8bf-4f0d-2eac-25f8f945464f>
+  AssetFiles:
+    eb30773c-9256-40fc-aa09-07bcc20e7302: 2b031ffc-b4ca-4bf0-9c70-b3093434b9a0/361cad83d8bf4f0d2eac25f8f945464f/Data/gravy_boat_color.png
+  AssetCurrentFiles:
+    eb30773c-9256-40fc-aa09-07bcc20e7302: 2b031ffc-b4ca-4bf0-9c70-b3093434b9a0/361cad83d8bf4f0d2eac25f8f945464f/Data/Performance/Medium/gravy_boat_color.pvr
+  Assets:
+    - !<FileTexture/eb30773c-9256-40fc-aa09-07bcc20e7302>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 361cad83d8bf4f0d2eac25f8f945464f
+  FileHash: a35756bb24ffdf9d0b81c6a60425dba6
+  NativePackageItems:
+    []

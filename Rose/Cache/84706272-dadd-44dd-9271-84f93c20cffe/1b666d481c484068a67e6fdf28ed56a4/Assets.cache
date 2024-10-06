@@ -1,0 +1,18 @@
+- !<AssetCache/1b666d48-1c48-4068-a67e-6fdf28ed56a4>
+  AssetFiles:
+    cb73b442-981c-494d-b244-40fe9d3e61a5: 84706272-dadd-44dd-9271-84f93c20cffe/1b666d481c484068a67e6fdf28ed56a4/Data/C_marshmellow_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/cb73b442-981c-494d-b244-40fe9d3e61a5>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 64
+        Vertices: 54
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 1b666d481c484068a67e6fdf28ed56a4
+  FileHash: 00394f9db1ba7f76930f81d00880a554
+  NativePackageItems:
+    []

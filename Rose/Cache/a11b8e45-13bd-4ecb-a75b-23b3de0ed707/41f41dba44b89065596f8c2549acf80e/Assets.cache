@@ -1,0 +1,18 @@
+- !<AssetCache/41f41dba-44b8-9065-596f-8c2549acf80e>
+  AssetFiles:
+    e2756726-6f0c-4aeb-996a-a58c5af6c823: a11b8e45-13bd-4ecb-a75b-23b3de0ed707/41f41dba44b89065596f8c2549acf80e/Data/C_pickle_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e2756726-6f0c-4aeb-996a-a58c5af6c823>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 174
+        Vertices: 110
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 41f41dba44b89065596f8c2549acf80e
+  FileHash: 4ec186325b870f2e0c022e30a5354cd2
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/15edfa0a-47ec-2de8-4f61-f6c7c2a09fe1>
+  AssetFiles:
+    18e24a75-6394-42b8-b9b3-ccb4f5bd61a9: 3e39ef0b-59ee-48c9-8925-db123bc5c189/15edfa0a47ec2de84f61f6c7c2a09fe1/Data/phone_screen_cracked_color.png
+  AssetCurrentFiles:
+    18e24a75-6394-42b8-b9b3-ccb4f5bd61a9: 3e39ef0b-59ee-48c9-8925-db123bc5c189/15edfa0a47ec2de84f61f6c7c2a09fe1/Data/Performance/Medium/phone_screen_cracked_color.pvr
+  Assets:
+    - !<FileTexture/18e24a75-6394-42b8-b9b3-ccb4f5bd61a9>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 15edfa0a47ec2de84f61f6c7c2a09fe1
+  FileHash: 9caa1951d4ae60d9a150e5f619e9276c
+  NativePackageItems:
+    []

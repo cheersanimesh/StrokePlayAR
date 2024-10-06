@@ -1,0 +1,18 @@
+- !<AssetCache/ccb87515-e0fb-b43d-cf25-a0b5613c0032>
+  AssetFiles:
+    e622a1da-2c15-42a8-8d65-e88a37867954: 327e6b94-17c4-4db5-8899-3d6e2a03ef66/ccb87515e0fbb43dcf25a0b5613c0032/Data/C_stool_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e622a1da-2c15-42a8-8d65-e88a37867954>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 4856
+        Vertices: 3565
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: ccb87515e0fbb43dcf25a0b5613c0032
+  FileHash: 0e205d95b9b2035507b6a18fb89b591f
+  NativePackageItems:
+    []

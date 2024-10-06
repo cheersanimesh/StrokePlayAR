@@ -1,0 +1,15 @@
+- !<AssetCache/53c18bf3-285a-b356-fb6b-42f80666a70c>
+  AssetFiles:
+    dae0e5b0-69df-4407-9dec-0faabaf185f6: 0657f222-ebc0-481f-84f7-f30c9cb9a6eb/53c18bf3285ab356fb6b42f80666a70c/Data/pie_color.png
+  AssetCurrentFiles:
+    dae0e5b0-69df-4407-9dec-0faabaf185f6: 0657f222-ebc0-481f-84f7-f30c9cb9a6eb/53c18bf3285ab356fb6b42f80666a70c/Data/Performance/Medium/pie_color.pvr
+  Assets:
+    - !<FileTexture/dae0e5b0-69df-4407-9dec-0faabaf185f6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 53c18bf3285ab356fb6b42f80666a70c
+  FileHash: 97187b2b59542d5b0c4a735fd9289f62
+  NativePackageItems:
+    []

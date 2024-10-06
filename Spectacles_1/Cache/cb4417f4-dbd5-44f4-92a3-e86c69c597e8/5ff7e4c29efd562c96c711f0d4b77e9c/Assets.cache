@@ -1,0 +1,15 @@
+- !<AssetCache/5ff7e4c2-9efd-562c-96c7-11f0d4b77e9c>
+  AssetFiles:
+    fcff4208-9e75-4e72-a390-6856ba8f700e: cb4417f4-dbd5-44f4-92a3-e86c69c597e8/5ff7e4c29efd562c96c711f0d4b77e9c/Data/block_mystery_color.png
+  AssetCurrentFiles:
+    fcff4208-9e75-4e72-a390-6856ba8f700e: cb4417f4-dbd5-44f4-92a3-e86c69c597e8/5ff7e4c29efd562c96c711f0d4b77e9c/Data/Performance/Medium/block_mystery_color.pvr
+  Assets:
+    - !<FileTexture/fcff4208-9e75-4e72-a390-6856ba8f700e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 5ff7e4c29efd562c96c711f0d4b77e9c
+  FileHash: ecd883d5074292610be6404e65067f7f
+  NativePackageItems:
+    []

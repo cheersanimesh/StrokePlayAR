@@ -1,0 +1,18 @@
+- !<AssetCache/cb32a0a5-c351-a549-c6ae-a5dfe6a22766>
+  AssetFiles:
+    e31f06ab-a761-47bd-bdf5-9b9219cde6d7: a2f35a45-cf06-48c4-8f5f-866ec3df8e15/cb32a0a5c351a549c6aea5dfe6a22766/Data/C_chip_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e31f06ab-a761-47bd-bdf5-9b9219cde6d7>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 8
+        Vertices: 16
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: cb32a0a5c351a549c6aea5dfe6a22766
+  FileHash: a65fd1e360bb7af05181cdf2f26f23bb
+  NativePackageItems:
+    []

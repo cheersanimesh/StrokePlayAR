@@ -1,0 +1,18 @@
+- !<AssetCache/f3938155-bf18-e5c5-b21d-5b0b729252b0>
+  AssetFiles:
+    a93f479b-f334-4cf9-b119-92fd388349f6: c292a50e-63b5-4738-980f-d5b7d556d9f4/f3938155bf18e5c5b21d5b0b729252b0/Data/C_tvremote_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/a93f479b-f334-4cf9-b119-92fd388349f6>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 12
+        Vertices: 24
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: f3938155bf18e5c5b21d5b0b729252b0
+  FileHash: f57842b16182bc889b5602ff5d833fba
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/e1c52e82-6f19-c4cf-782d-8ff6f2d368dc>
+  AssetFiles:
+    21d35474-4f75-4d54-bd7d-18144ec527ed: df0708e9-582e-4680-ac6d-11e6969ac2e2/e1c52e826f19c4cf782d8ff6f2d368dc/Data/phone_on_cam_color.png
+  AssetCurrentFiles:
+    21d35474-4f75-4d54-bd7d-18144ec527ed: df0708e9-582e-4680-ac6d-11e6969ac2e2/e1c52e826f19c4cf782d8ff6f2d368dc/Data/Performance/Medium/phone_on_cam_color.pvr
+  Assets:
+    - !<FileTexture/21d35474-4f75-4d54-bd7d-18144ec527ed>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: e1c52e826f19c4cf782d8ff6f2d368dc
+  FileHash: fee7a9fb9de0730e05ea94653b66e5a1
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/59b563e0-3c21-76f4-3358-fd55190e1610>
+  AssetFiles:
+    3dd1724a-ed91-476f-a704-69f4aaa3132b: 2c069d53-ff3b-4878-bc50-608b096e1c77/59b563e03c2176f43358fd55190e1610/Data/Rose_Co.jpeg
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileTexture/3dd1724a-ed91-476f-a704-69f4aaa3132b>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 59b563e03c2176f43358fd55190e1610
+  FileHash: 5580fee9fcd92afe8eb011697b9f0bf9
+  NativePackageItems:
+    []

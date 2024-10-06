@@ -1,0 +1,18 @@
+- !<AssetCache/fa3a980d-3cb8-02f7-5ca3-abf019bb7d48>
+  AssetFiles:
+    7c56d83f-6ddd-4cd3-bd36-c9defb45414b: 3deb7d63-ff87-465c-8212-c2769e824c86/fa3a980d3cb802f75ca3abf019bb7d48/Data/C_tripod_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/7c56d83f-6ddd-4cd3-bd36-c9defb45414b>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 434
+        Vertices: 507
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: fa3a980d3cb802f75ca3abf019bb7d48
+  FileHash: 6cdad95906a577e446612df27f0c4f81
+  NativePackageItems:
+    []

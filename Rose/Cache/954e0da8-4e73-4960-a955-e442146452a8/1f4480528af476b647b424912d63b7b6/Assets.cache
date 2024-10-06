@@ -1,0 +1,15 @@
+- !<AssetCache/1f448052-8af4-76b6-47b4-24912d63b7b6>
+  AssetFiles:
+    5a7b7f63-8a5f-4152-b362-e25e6edc23c4: 954e0da8-4e73-4960-a955-e442146452a8/1f4480528af476b647b424912d63b7b6/Data/orangeslice_color.png
+  AssetCurrentFiles:
+    5a7b7f63-8a5f-4152-b362-e25e6edc23c4: 954e0da8-4e73-4960-a955-e442146452a8/1f4480528af476b647b424912d63b7b6/Data/Performance/Medium/orangeslice_color.pvr
+  Assets:
+    - !<FileTexture/5a7b7f63-8a5f-4152-b362-e25e6edc23c4>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 1f4480528af476b647b424912d63b7b6
+  FileHash: e3197b974e85134b6bdb266aeadb4b20
+  NativePackageItems:
+    []

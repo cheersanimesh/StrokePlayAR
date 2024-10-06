@@ -1,0 +1,18 @@
+- !<AssetCache/abe4782c-7038-60f0-a661-249b525d8dfb>
+  AssetFiles:
+    ec89e768-c7c3-48b7-942a-aca3ccd570e1: e21c5055-560b-40e1-89dc-4b72992c690b/abe4782c703860f0a661249b525d8dfb/Data/batteryFull_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ec89e768-c7c3-48b7-942a-aca3ccd570e1>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 32
+        Vertices: 54
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: abe4782c703860f0a661249b525d8dfb
+  FileHash: 6303c658f1a8e697f1350bf47a9c31c6
+  NativePackageItems:
+    []

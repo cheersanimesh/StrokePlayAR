@@ -1,0 +1,15 @@
+- !<AssetCache/6830d4d0-78a8-1e10-420c-a68d5abf8fd4>
+  AssetFiles:
+    7f9d3b0a-d42f-4fe9-83f7-0450f7e00641: 7bdbd610-df86-446a-9439-20f31bab9133/6830d4d078a81e10420ca68d5abf8fd4/Data/burger_color.png
+  AssetCurrentFiles:
+    7f9d3b0a-d42f-4fe9-83f7-0450f7e00641: 7bdbd610-df86-446a-9439-20f31bab9133/6830d4d078a81e10420ca68d5abf8fd4/Data/Performance/Medium/burger_color.pvr
+  Assets:
+    - !<FileTexture/7f9d3b0a-d42f-4fe9-83f7-0450f7e00641>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 6830d4d078a81e10420ca68d5abf8fd4
+  FileHash: 04e127321fb3dd6aea1305aa16c32646
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/f3e08d5d-c8be-1c9e-8b08-4693520651b8>
+  AssetFiles:
+    e51cc19c-2269-49f2-b994-51c0946e8ea0: 8844503b-a369-414b-9e3c-628e8ba765ee/f3e08d5dc8be1c9e8b084693520651b8/Data/sandwich_color.png
+  AssetCurrentFiles:
+    e51cc19c-2269-49f2-b994-51c0946e8ea0: 8844503b-a369-414b-9e3c-628e8ba765ee/f3e08d5dc8be1c9e8b084693520651b8/Data/Performance/Medium/sandwich_color.pvr
+  Assets:
+    - !<FileTexture/e51cc19c-2269-49f2-b994-51c0946e8ea0>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: f3e08d5dc8be1c9e8b084693520651b8
+  FileHash: 8988af23f0a5eb3ab08f839bbc2eb80b
+  NativePackageItems:
+    []

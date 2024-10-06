@@ -1,0 +1,18 @@
+- !<AssetCache/5cf036db-6eab-d71f-a56e-88a3b9efacef>
+  AssetFiles:
+    5cef6394-b847-401d-8f53-988c74c42c83: ced38068-82ef-4d01-a56d-a58ccdd4df18/5cf036db6eabd71fa56e88a3b9efacef/Data/C_cheeseWedge_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/5cef6394-b847-401d-8f53-988c74c42c83>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 56
+        Vertices: 70
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 5cf036db6eabd71fa56e88a3b9efacef
+  FileHash: 14b2cb11613d37cb9f8ba9fd7416240e
+  NativePackageItems:
+    []

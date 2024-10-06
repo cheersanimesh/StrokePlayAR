@@ -1,0 +1,15 @@
+- !<AssetCache/63814dd0-d4c3-451b-da68-46c1f09d66ac>
+  AssetFiles:
+    b728ebb4-73bc-4796-b288-cb5de239e233: 16851235-cf28-4a9d-882e-76dadddd56e6/63814dd0d4c3451bda6846c1f09d66ac/Data/countertop_empty_color.png
+  AssetCurrentFiles:
+    b728ebb4-73bc-4796-b288-cb5de239e233: 16851235-cf28-4a9d-882e-76dadddd56e6/63814dd0d4c3451bda6846c1f09d66ac/Data/Performance/Medium/countertop_empty_color.pvr
+  Assets:
+    - !<FileTexture/b728ebb4-73bc-4796-b288-cb5de239e233>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 63814dd0d4c3451bda6846c1f09d66ac
+  FileHash: b4970bbe50f7600602b76e9fff023c7c
+  NativePackageItems:
+    []

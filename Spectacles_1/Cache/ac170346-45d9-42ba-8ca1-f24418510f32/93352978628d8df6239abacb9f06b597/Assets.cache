@@ -1,0 +1,18 @@
+- !<AssetCache/93352978-628d-8df6-239a-bacb9f06b597>
+  AssetFiles:
+    dc104406-a655-4fa1-a467-c2fc398be7be: ac170346-45d9-42ba-8ca1-f24418510f32/93352978628d8df6239abacb9f06b597/Data/Box001.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/dc104406-a655-4fa1-a467-c2fc398be7be>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 1036
+        Vertices: 774
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 93352978628d8df6239abacb9f06b597
+  FileHash: 761b06bb0f2282a3bbaf50f9279f958f
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/8bafb9fb-5805-3fd9-17dd-2b4349d9a291>
+  AssetFiles:
+    14231e23-c578-4951-8763-273ec208d328: acc96f17-5ff8-4b8a-9566-7b36c28c7a70/8bafb9fb58053fd917dd2b4349d9a291/Data/basket_apples_color.png
+  AssetCurrentFiles:
+    14231e23-c578-4951-8763-273ec208d328: acc96f17-5ff8-4b8a-9566-7b36c28c7a70/8bafb9fb58053fd917dd2b4349d9a291/Data/Performance/Medium/basket_apples_color.pvr
+  Assets:
+    - !<FileTexture/14231e23-c578-4951-8763-273ec208d328>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 8bafb9fb58053fd917dd2b4349d9a291
+  FileHash: ffca66ff332c95aecb61316fccdc31db
+  NativePackageItems:
+    []

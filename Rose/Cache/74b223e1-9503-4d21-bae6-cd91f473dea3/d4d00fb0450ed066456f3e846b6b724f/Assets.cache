@@ -1,0 +1,18 @@
+- !<AssetCache/d4d00fb0-450e-d066-456f-3e846b6b724f>
+  AssetFiles:
+    2f1015b7-aae8-4cfb-bbca-a0dc5e0c4637: 74b223e1-9503-4d21-bae6-cd91f473dea3/d4d00fb0450ed066456f3e846b6b724f/Data/C_drumstick_bit_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/2f1015b7-aae8-4cfb-bbca-a0dc5e0c4637>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 32
+        Vertices: 54
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: d4d00fb0450ed066456f3e846b6b724f
+  FileHash: 002430e5d40d3bbbee784c1a7301873d
+  NativePackageItems:
+    []

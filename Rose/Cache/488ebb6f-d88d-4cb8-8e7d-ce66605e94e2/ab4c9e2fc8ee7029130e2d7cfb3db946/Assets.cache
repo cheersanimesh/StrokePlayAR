@@ -1,0 +1,15 @@
+- !<AssetCache/ab4c9e2f-c8ee-7029-130e-2d7cfb3db946>
+  AssetFiles:
+    fe0df768-b5a0-4711-bd82-33b2634d05d3: 488ebb6f-d88d-4cb8-8e7d-ce66605e94e2/ab4c9e2fc8ee7029130e2d7cfb3db946/Data/turkey_drumstick_color.png
+  AssetCurrentFiles:
+    fe0df768-b5a0-4711-bd82-33b2634d05d3: 488ebb6f-d88d-4cb8-8e7d-ce66605e94e2/ab4c9e2fc8ee7029130e2d7cfb3db946/Data/Performance/Medium/turkey_drumstick_color.pvr
+  Assets:
+    - !<FileTexture/fe0df768-b5a0-4711-bd82-33b2634d05d3>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 128
+        Height: 128
+  SourceHash: ab4c9e2fc8ee7029130e2d7cfb3db946
+  FileHash: e55aced362b115f9f02c4d4c501abee1
+  NativePackageItems:
+    []

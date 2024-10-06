@@ -1,0 +1,18 @@
+- !<AssetCache/04d531e9-c0a0-5acf-28a3-e7984094eb8d>
+  AssetFiles:
+    138aa4a2-fde0-4976-a211-624760cdbc0c: 885b864c-b544-4130-8484-bb067b505cac/04d531e9c0a05acf28a3e7984094eb8d/Data/C_nightstand_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/138aa4a2-fde0-4976-a211-624760cdbc0c>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 100
+        Vertices: 168
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 04d531e9c0a05acf28a3e7984094eb8d
+  FileHash: 24851aa9809cd59f031f1a1b21a78b73
+  NativePackageItems:
+    []

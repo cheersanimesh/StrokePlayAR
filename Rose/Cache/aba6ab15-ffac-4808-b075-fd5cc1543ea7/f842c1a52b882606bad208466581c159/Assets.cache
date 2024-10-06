@@ -1,0 +1,18 @@
+- !<AssetCache/f842c1a5-2b88-2606-bad2-08466581c159>
+  AssetFiles:
+    40e8ada8-a25b-4600-a19e-ec2bfad2afb2: aba6ab15-ffac-4808-b075-fd5cc1543ea7/f842c1a52b882606bad208466581c159/Data/C_food_orangeslice_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/40e8ada8-a25b-4600-a19e-ec2bfad2afb2>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 84
+        Vertices: 90
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: f842c1a52b882606bad208466581c159
+  FileHash: 8703b298c9c64a913566fce8fc8a127a
+  NativePackageItems:
+    []

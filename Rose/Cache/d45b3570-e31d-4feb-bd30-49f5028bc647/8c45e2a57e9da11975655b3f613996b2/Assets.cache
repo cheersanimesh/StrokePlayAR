@@ -1,0 +1,18 @@
+- !<AssetCache/8c45e2a5-7e9d-a119-7565-5b3f613996b2>
+  AssetFiles:
+    42f21225-0efe-49de-bc1a-e1399cc14ebe: d45b3570-e31d-4feb-bd30-49f5028bc647/8c45e2a57e9da11975655b3f613996b2/Data/C_chocolate_syrup_cap_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/42f21225-0efe-49de-bc1a-e1399cc14ebe>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 64
+        Vertices: 68
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 8c45e2a57e9da11975655b3f613996b2
+  FileHash: bb6e6769d3397b43a3c0d190501fd03e
+  NativePackageItems:
+    []

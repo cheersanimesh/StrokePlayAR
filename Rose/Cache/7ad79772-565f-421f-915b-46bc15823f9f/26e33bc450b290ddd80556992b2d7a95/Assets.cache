@@ -1,0 +1,15 @@
+- !<AssetCache/26e33bc4-50b2-90dd-d805-56992b2d7a95>
+  AssetFiles:
+    3e42930e-1809-49ff-be2f-cac39f40acda: 7ad79772-565f-421f-915b-46bc15823f9f/26e33bc450b290ddd80556992b2d7a95/Data/ice_cream_empty_color.png
+  AssetCurrentFiles:
+    3e42930e-1809-49ff-be2f-cac39f40acda: 7ad79772-565f-421f-915b-46bc15823f9f/26e33bc450b290ddd80556992b2d7a95/Data/Performance/Medium/ice_cream_empty_color.pvr
+  Assets:
+    - !<FileTexture/3e42930e-1809-49ff-be2f-cac39f40acda>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: 26e33bc450b290ddd80556992b2d7a95
+  FileHash: 5ca5c48f8e0b842d17f4a281435bbe46
+  NativePackageItems:
+    []

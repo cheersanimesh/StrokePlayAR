@@ -1,0 +1,18 @@
+- !<AssetCache/184e6b24-dd87-c7e5-e962-ad1b278b7933>
+  AssetFiles:
+    ed568d0f-5b48-46ef-a2db-26965124a5e8: bfea197a-4c7a-4e27-8312-aa33d0bb4056/184e6b24dd87c7e5e962ad1b278b7933/Data/C_turkey_drumstick_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ed568d0f-5b48-46ef-a2db-26965124a5e8>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 368
+        Vertices: 244
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 184e6b24dd87c7e5e962ad1b278b7933
+  FileHash: aa8f6b1e49fb2f72dfc654e30fac23c1
+  NativePackageItems:
+    []

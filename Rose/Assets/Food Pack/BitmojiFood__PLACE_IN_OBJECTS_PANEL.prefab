@@ -1,0 +1,264 @@
+- !<ObjectPrefab/67414fde-a713-43cb-963f-82e47ca7945c>
+  PackagePath: ""
+  objects:
+    - !<own> 1773216b-17f1-4a77-a633-71ee0d89d835
+  LazyLoading: false
+  RetainAssets: true
+- !<Skin/08cba1fa-7a07-4b80-9839-40b6da3a76fb>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  skinBones:
+    C_appleTrapDoor_GEO: !<reference> 8ccf8a7e-98f9-44a2-9a61-f599bbcaa843
+    C_basket_GEO: !<reference> 1fc25be5-2fc6-43f6-9111-0589729cdebc
+    C_basket_bind_JNT: !<reference> 0b7d4a64-0a65-4978-bb56-f956095fc50d
+    C_trapDoor_bind_JNT: !<reference> d2f4c21b-265b-4260-9af5-33959e050b92
+    PROP: !<reference> de38ff0e-e466-4fd6-8650-06e0daae3ef2
+    basket_apples_bindrig: !<reference> ddaa9547-f6ad-4f63-8c91-20a0c0337757
+    bind_GRP: !<reference> 45ca2a0d-ae1a-43e6-9f68-6adc8a791624
+    geo_GRP: !<reference> b0e5362b-63a5-4d7d-8e0a-f1703162b71c
+    rig_GRP: !<reference> 2cc97c4a-2cf4-4b4b-b029-9f9817191452
+- !<SceneObject/0b7d4a64-0a65-4978-bb56-f956095fc50d>
+  PrefabRemaps:
+    []
+  Name: C_basket_bind_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<BodyComponent/0d86d49f-4613-4b5d-a4cd-b26975b0a657>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Mesh/00000000-0000-0000-0000-000000000000>
+    Mesh: !<reference> 8a592015-5794-4c13-8c56-b43d843893e1
+    Convex: false
+    Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: false
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<SceneObject/1773216b-17f1-4a77-a633-71ee0d89d835>
+  PrefabRemaps:
+    []
+  Name: BitmojiFood__PLACE_IN_OBJECTS_PANEL
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ddaa9547-f6ad-4f63-8c91-20a0c0337757
+  Components:
+    []
+- !<SceneObject/1fc25be5-2fc6-43f6-9111-0589729cdebc>
+  PrefabRemaps:
+    []
+  Name: C_basket_GEO
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 766069d1-fdb8-471d-9d49-db5aedb45d82
+    - !<own> 0d86d49f-4613-4b5d-a4cd-b26975b0a657
+- !<SceneObject/2cc97c4a-2cf4-4b4b-b029-9f9817191452>
+  PrefabRemaps:
+    []
+  Name: rig_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 45ca2a0d-ae1a-43e6-9f68-6adc8a791624
+  Components:
+    []
+- !<SceneObject/45ca2a0d-ae1a-43e6-9f68-6adc8a791624>
+  PrefabRemaps:
+    []
+  Name: bind_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 0b7d4a64-0a65-4978-bb56-f956095fc50d
+    - !<own> d2f4c21b-265b-4260-9af5-33959e050b92
+  Components:
+    []
+- !<RenderMeshVisual/6a46c969-ed65-4975-b122-32282b4883b6>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4a8241df-b6f3-41b4-b69d-6f7c9a4b7487
+  Mesh: !<reference> 8a592015-5794-4c13-8c56-b43d843893e1
+  Skin: !<reference> 08cba1fa-7a07-4b80-9839-40b6da3a76fb
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/766069d1-fdb8-471d-9d49-db5aedb45d82>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4a8241df-b6f3-41b4-b69d-6f7c9a4b7487
+  Mesh: !<reference> acca8db8-d128-4b0a-9186-d90584d4131e
+  Skin: !<reference> 08cba1fa-7a07-4b80-9839-40b6da3a76fb
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8ccf8a7e-98f9-44a2-9a61-f599bbcaa843>
+  PrefabRemaps:
+    []
+  Name: C_appleTrapDoor_GEO
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6a46c969-ed65-4975-b122-32282b4883b6
+- !<BodyComponent/a0cda7de-92ea-42f1-a3fe-6ed902ba40a5>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Mesh/00000000-0000-0000-0000-000000000000>
+    Mesh: !<reference> 8a592015-5794-4c13-8c56-b43d843893e1
+    Convex: false
+    Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  Matter: !<reference> 5d51f793-e8c9-4a9a-9608-444c0ddcba3d
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: false
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<SceneObject/b0e5362b-63a5-4d7d-8e0a-f1703162b71c>
+  PrefabRemaps:
+    []
+  Name: geo_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1fc25be5-2fc6-43f6-9111-0589729cdebc
+    - !<own> 8ccf8a7e-98f9-44a2-9a61-f599bbcaa843
+  Components:
+    []
+- !<SceneObject/d2f4c21b-265b-4260-9af5-33959e050b92>
+  PrefabRemaps:
+    []
+  Name: C_trapDoor_bind_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000002, y: 33.653862, z: -0.164014}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/ddaa9547-f6ad-4f63-8c91-20a0c0337757>
+  PrefabRemaps:
+    []
+  Name: basket_apples_bindrig
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -41.994221, z: -141.112686}
+    rotation: {x: 58.633099, y: 33.637165, z: 18.877531}
+    scale: {x: 2.123634, y: 0.329001, z: 1.552788}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> de38ff0e-e466-4fd6-8650-06e0daae3ef2
+  Components:
+    - !<own> 08cba1fa-7a07-4b80-9839-40b6da3a76fb
+    - !<own> a0cda7de-92ea-42f1-a3fe-6ed902ba40a5
+- !<SceneObject/de38ff0e-e466-4fd6-8650-06e0daae3ef2>
+  PrefabRemaps:
+    []
+  Name: PROP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2cc97c4a-2cf4-4b4b-b029-9f9817191452
+    - !<own> b0e5362b-63a5-4d7d-8e0a-f1703162b71c
+  Components:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/23012e26-6311-d26e-671f-5616cad0f6ff>
+  AssetFiles:
+    7ddb7712-8eb2-4d4a-ad5d-708e6aa20aa4: b6de0e53-b219-42de-831d-d56e18e70a3e/23012e266311d26e671f5616cad0f6ff/Data/C_bottle_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/7ddb7712-8eb2-4d4a-ad5d-708e6aa20aa4>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 768
+        Vertices: 546
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 23012e266311d26e671f5616cad0f6ff
+  FileHash: b1a33aea540f67e933464ff97eec9b30
+  NativePackageItems:
+    []

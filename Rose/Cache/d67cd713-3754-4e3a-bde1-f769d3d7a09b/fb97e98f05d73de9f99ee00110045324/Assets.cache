@@ -1,0 +1,18 @@
+- !<AssetCache/fb97e98f-05d7-3de9-f99e-e00110045324>
+  AssetFiles:
+    0dd82fa6-0147-4ae7-9796-6cc15bcebf76: d67cd713-3754-4e3a-bde1-f769d3d7a09b/fb97e98f05d73de9f99ee00110045324/Data/C_dip_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/0dd82fa6-0147-4ae7-9796-6cc15bcebf76>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 616
+        Vertices: 483
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: fb97e98f05d73de9f99ee00110045324
+  FileHash: 95fa6d42d285d37e640a314a2523c33a
+  NativePackageItems:
+    []

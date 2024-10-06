@@ -1,0 +1,18 @@
+- !<AssetCache/21730e9e-bb23-b994-e47d-b2ef9da91d16>
+  AssetFiles:
+    ae782e50-7c81-4a45-a59e-2ce630374e07: 4fe8f17d-28e0-407e-8e4c-377e75454ba8/21730e9ebb23b994e47db2ef9da91d16/Data/batteryEmpty_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/ae782e50-7c81-4a45-a59e-2ce630374e07>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 60
+        Vertices: 98
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 21730e9ebb23b994e47db2ef9da91d16
+  FileHash: 2dd304b82b974b50689b65a3da929538
+  NativePackageItems:
+    []

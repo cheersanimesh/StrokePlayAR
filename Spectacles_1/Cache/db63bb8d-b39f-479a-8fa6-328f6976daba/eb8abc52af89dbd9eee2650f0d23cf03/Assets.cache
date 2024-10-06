@@ -1,0 +1,18 @@
+- !<AssetCache/eb8abc52-af89-dbd9-eee2-650f0d23cf03>
+  AssetFiles:
+    34309bf1-04ad-4987-a6a7-1a90f8100da7: db63bb8d-b39f-479a-8fa6-328f6976daba/eb8abc52af89dbd9eee2650f0d23cf03/Data/C_phone_tablet_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/34309bf1-04ad-4987-a6a7-1a90f8100da7>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 44
+        Vertices: 48
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: eb8abc52af89dbd9eee2650f0d23cf03
+  FileHash: 7f0b348f0c23bce6874b0dbb58f74ee6
+  NativePackageItems:
+    []

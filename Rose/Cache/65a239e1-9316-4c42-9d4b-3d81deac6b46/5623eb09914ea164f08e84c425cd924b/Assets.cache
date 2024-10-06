@@ -1,0 +1,15 @@
+- !<AssetCache/5623eb09-914e-a164-f08e-84c425cd924b>
+  AssetFiles:
+    f8b8a22b-8728-4be8-85d2-547321bda267: 65a239e1-9316-4c42-9d4b-3d81deac6b46/5623eb09914ea164f08e84c425cd924b/Data/chocolate_syrup_color.png
+  AssetCurrentFiles:
+    f8b8a22b-8728-4be8-85d2-547321bda267: 65a239e1-9316-4c42-9d4b-3d81deac6b46/5623eb09914ea164f08e84c425cd924b/Data/Performance/Medium/chocolate_syrup_color.pvr
+  Assets:
+    - !<FileTexture/f8b8a22b-8728-4be8-85d2-547321bda267>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 5623eb09914ea164f08e84c425cd924b
+  FileHash: 31d29b6971f036c8f13d41f022f1036d
+  NativePackageItems:
+    []

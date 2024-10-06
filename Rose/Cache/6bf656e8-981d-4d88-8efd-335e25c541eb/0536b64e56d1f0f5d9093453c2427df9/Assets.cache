@@ -1,0 +1,18 @@
+- !<AssetCache/0536b64e-56d1-f0f5-d909-3453c2427df9>
+  AssetFiles:
+    9ea5a023-3f89-49d7-979f-8f32a35d174c: 6bf656e8-981d-4d88-8efd-335e25c541eb/0536b64e56d1f0f5d9093453c2427df9/Data/C_tomato_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/9ea5a023-3f89-49d7-979f-8f32a35d174c>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 428
+        Vertices: 340
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 0536b64e56d1f0f5d9093453c2427df9
+  FileHash: f703db8200dfe25c75a9307b62348a83
+  NativePackageItems:
+    []

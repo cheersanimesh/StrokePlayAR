@@ -1,0 +1,18 @@
+- !<AssetCache/53943df2-7619-6bdd-abd2-c879f1226cf8>
+  AssetFiles:
+    b94e86a0-b596-4877-9e26-a4a9ed07c7e6: db54c822-ca15-43dc-aec4-7b653448fdb7/53943df276196bddabd2c879f1226cf8/Data/C_mystery_brick_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/b94e86a0-b596-4877-9e26-a4a9ed07c7e6>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 44
+        Vertices: 94
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 53943df276196bddabd2c879f1226cf8
+  FileHash: 6ff3d7e088806fbeeec3e8ebe43127bb
+  NativePackageItems:
+    []

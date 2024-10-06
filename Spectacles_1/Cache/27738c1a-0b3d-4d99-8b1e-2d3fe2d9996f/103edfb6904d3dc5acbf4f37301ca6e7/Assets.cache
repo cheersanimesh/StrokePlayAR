@@ -1,0 +1,15 @@
+- !<AssetCache/103edfb6-904d-3dc5-acbf-4f37301ca6e7>
+  AssetFiles:
+    291520b2-e2ab-4c62-a29e-681ec4101df7: 27738c1a-0b3d-4d99-8b1e-2d3fe2d9996f/103edfb6904d3dc5acbf4f37301ca6e7/Data/tv_remote_color.png
+  AssetCurrentFiles:
+    291520b2-e2ab-4c62-a29e-681ec4101df7: 27738c1a-0b3d-4d99-8b1e-2d3fe2d9996f/103edfb6904d3dc5acbf4f37301ca6e7/Data/Performance/Medium/tv_remote_color.pvr
+  Assets:
+    - !<FileTexture/291520b2-e2ab-4c62-a29e-681ec4101df7>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 103edfb6904d3dc5acbf4f37301ca6e7
+  FileHash: d7a2a1895f250ed10c19f1607f6cb764
+  NativePackageItems:
+    []

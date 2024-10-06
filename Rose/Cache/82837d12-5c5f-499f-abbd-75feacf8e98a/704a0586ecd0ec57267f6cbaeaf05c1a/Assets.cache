@@ -1,0 +1,18 @@
+- !<AssetCache/704a0586-ecd0-ec57-267f-6cbaeaf05c1a>
+  AssetFiles:
+    82ce0675-50ba-4f60-8a82-c1619bfa226f: 82837d12-5c5f-499f-abbd-75feacf8e98a/704a0586ecd0ec57267f6cbaeaf05c1a/Data/cookie_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/82ce0675-50ba-4f60-8a82-c1619bfa226f>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 72
+        Vertices: 74
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 704a0586ecd0ec57267f6cbaeaf05c1a
+  FileHash: 73b8094f56884ae01a6ac5207d77ec94
+  NativePackageItems:
+    []

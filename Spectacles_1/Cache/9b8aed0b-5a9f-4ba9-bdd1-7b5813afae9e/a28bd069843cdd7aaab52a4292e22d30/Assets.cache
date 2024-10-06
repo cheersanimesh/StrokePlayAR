@@ -1,0 +1,15 @@
+- !<AssetCache/a28bd069-843c-dd7a-aab5-2a4292e22d30>
+  AssetFiles:
+    8f63eae9-78eb-49fa-b93e-ff0c583fef09: 9b8aed0b-5a9f-4ba9-bdd1-7b5813afae9e/a28bd069843cdd7aaab52a4292e22d30/Data/desk_prop_color.png
+  AssetCurrentFiles:
+    8f63eae9-78eb-49fa-b93e-ff0c583fef09: 9b8aed0b-5a9f-4ba9-bdd1-7b5813afae9e/a28bd069843cdd7aaab52a4292e22d30/Data/Performance/Medium/desk_prop_color.pvr
+  Assets:
+    - !<FileTexture/8f63eae9-78eb-49fa-b93e-ff0c583fef09>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: a28bd069843cdd7aaab52a4292e22d30
+  FileHash: ac647d3389a72620fbc7198a37e6639c
+  NativePackageItems:
+    []

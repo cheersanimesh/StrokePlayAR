@@ -1,0 +1,15 @@
+- !<AssetCache/608979de-6751-a60c-1944-bc8e9a220932>
+  AssetFiles:
+    ea805d0c-1efd-4e25-a821-04ab56c78c77: 367b3729-6874-4af4-8388-74acd7014b66/608979de6751a60c1944bc8e9a220932/Data/Base.png
+  AssetCurrentFiles:
+    ea805d0c-1efd-4e25-a821-04ab56c78c77: 367b3729-6874-4af4-8388-74acd7014b66/608979de6751a60c1944bc8e9a220932/Data/Performance/Medium/Base.pvr
+  Assets:
+    - !<FileTexture/ea805d0c-1efd-4e25-a821-04ab56c78c77>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1
+        Height: 1
+  SourceHash: 608979de6751a60c1944bc8e9a220932
+  FileHash: 53772a1c901facc7dc236f20f44e8877
+  NativePackageItems:
+    []

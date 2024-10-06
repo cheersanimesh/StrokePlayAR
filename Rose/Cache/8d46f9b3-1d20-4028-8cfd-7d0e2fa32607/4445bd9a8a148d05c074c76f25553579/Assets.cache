@@ -1,0 +1,18 @@
+- !<AssetCache/4445bd9a-8a14-8d05-c074-c76f25553579>
+  AssetFiles:
+    73217624-eca3-4d96-90ce-c5388cc4bbdb: 8d46f9b3-1d20-4028-8cfd-7d0e2fa32607/4445bd9a8a148d05c074c76f25553579/Data/C_turkey_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/73217624-eca3-4d96-90ce-c5388cc4bbdb>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 1156
+        Vertices: 730
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 4445bd9a8a148d05c074c76f25553579
+  FileHash: 7d4685d4c8ceaa56f40ea0fdc493bcad
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/da0464a1-8140-f783-0154-5d25af1e09df>
+  AssetFiles:
+    f148e92d-3748-428b-affe-bb43195115a1: f4ee3fc1-a47d-458f-b070-eea61df9dc74/da0464a18140f78301545d25af1e09df/Data/C_glass_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/f148e92d-3748-428b-affe-bb43195115a1>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 24
+        Vertices: 25
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: da0464a18140f78301545d25af1e09df
+  FileHash: c090289aafdc9560c090775fd05ec5b6
+  NativePackageItems:
+    []

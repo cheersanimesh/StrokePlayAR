@@ -1,0 +1,18 @@
+- !<AssetCache/7dcd0758-6413-fe73-fd32-3853b7203f0c>
+  AssetFiles:
+    d58f9b7c-813b-460d-a28a-8c64d3d02edb: c4c1a0d9-a2e8-46ed-baab-e30dcef9d5c2/7dcd07586413fe73fd323853b7203f0c/Data/C_button_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/d58f9b7c-813b-460d-a28a-8c64d3d02edb>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 48
+        Vertices: 51
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 7dcd07586413fe73fd323853b7203f0c
+  FileHash: 9d95eab5eab20f1902be828eba475d64
+  NativePackageItems:
+    []

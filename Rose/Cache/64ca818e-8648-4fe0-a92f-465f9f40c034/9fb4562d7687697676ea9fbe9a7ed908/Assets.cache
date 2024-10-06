@@ -1,0 +1,18 @@
+- !<AssetCache/9fb4562d-7687-6976-76ea-9fbe9a7ed908>
+  AssetFiles:
+    0aa0c394-9286-4f75-b704-3e4ec5971637: 64ca818e-8648-4fe0-a92f-465f9f40c034/9fb4562d7687697676ea9fbe9a7ed908/Data/C_gravyBoat_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/0aa0c394-9286-4f75-b704-3e4ec5971637>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 1312
+        Vertices: 867
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 9fb4562d7687697676ea9fbe9a7ed908
+  FileHash: 961f71a2598921a2798037d1838669aa
+  NativePackageItems:
+    []

@@ -1,0 +1,296 @@
+- !<AssetImportMetadata/168cec03-513f-4676-8ffb-2a8269fcae4b>
+  ImportedAssetIds:
+    ObjectPrefab: !<reference> 67414fde-a713-43cb-963f-82e47ca7945c
+  ImporterName: ObjectPrefabImporter
+  PrimaryAsset: !<reference> 67414fde-a713-43cb-963f-82e47ca7945c
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  AssetDataMap:
+    ObjectPrefab: !<own> 9900793d-9140-4584-b027-2d398a2cd64c
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings/0d2b10eb-98a9-42de-a056-b1ef3f2380f1>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/024b61db-15ba-423b-964c-4a1b36bfe8c6>
+  PrefabRemaps:
+    []
+  Name: rig_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 77328e9a-cfb3-4918-b801-46f9750fe739
+  Components:
+    []
+- !<SceneObject/3b0fb7ef-414e-46f0-b947-ab76b9f421f9>
+  PrefabRemaps:
+    []
+  Name: C_trapDoor_bind_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000002, y: 33.653862, z: -0.164014}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/57455584-001e-4bff-b83d-4beb71ea583e>
+  PrefabRemaps:
+    []
+  Name: C_basket_GEO
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 90772123-752f-43e3-9bcd-12c83d8a7116
+    - !<own> ff1c9a59-d578-4a70-9988-dd0175f3ed68
+- !<BodyComponent/6581561d-8232-45b1-beb6-1f6cd9277c21>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Mesh/00000000-0000-0000-0000-000000000000>
+    Mesh: !<reference> 8a592015-5794-4c13-8c56-b43d843893e1
+    Convex: false
+    Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  Matter: !<reference> 5d51f793-e8c9-4a9a-9608-444c0ddcba3d
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: false
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000
+- !<SceneObject/669a96c9-3811-4441-993a-94a42eada7df>
+  PrefabRemaps:
+    []
+  Name: basket_apples_bindrig
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: -41.994221, z: -141.112686}
+    rotation: {x: 58.633099, y: 33.637165, z: 18.877531}
+    scale: {x: 2.123634, y: 0.329001, z: 1.552788}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> f334b913-59a7-4a47-9040-8696030fa45a
+  Components:
+    - !<own> bcd8b300-b8b7-49ba-bc04-b885c275715f
+    - !<own> 6581561d-8232-45b1-beb6-1f6cd9277c21
+- !<SceneObject/77328e9a-cfb3-4918-b801-46f9750fe739>
+  PrefabRemaps:
+    []
+  Name: bind_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> ec0a6696-2d5a-4434-bbe6-32be178a9514
+    - !<own> 3b0fb7ef-414e-46f0-b947-ab76b9f421f9
+  Components:
+    []
+- !<RenderMeshVisual/90772123-752f-43e3-9bcd-12c83d8a7116>
+  PrefabRemaps:
+    []
+  Name: component_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4a8241df-b6f3-41b4-b69d-6f7c9a4b7487
+  Mesh: !<reference> acca8db8-d128-4b0a-9186-d90584d4131e
+  Skin: !<reference> bcd8b300-b8b7-49ba-bc04-b885c275715f
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/9900793d-9140-4584-b027-2d398a2cd64c>
+  SourceRemaps:
+    - 08cba1fa-7a07-4b80-9839-40b6da3a76fb: bcd8b300-b8b7-49ba-bc04-b885c275715f
+    - 0b7d4a64-0a65-4978-bb56-f956095fc50d: ec0a6696-2d5a-4434-bbe6-32be178a9514
+    - 0d86d49f-4613-4b5d-a4cd-b26975b0a657: ff1c9a59-d578-4a70-9988-dd0175f3ed68
+    - 1773216b-17f1-4a77-a633-71ee0d89d835: a251bb10-3317-4387-8cd5-73b81f66f027
+    - 1fc25be5-2fc6-43f6-9111-0589729cdebc: 57455584-001e-4bff-b83d-4beb71ea583e
+    - 2cc97c4a-2cf4-4b4b-b029-9f9817191452: 024b61db-15ba-423b-964c-4a1b36bfe8c6
+    - 45ca2a0d-ae1a-43e6-9f68-6adc8a791624: 77328e9a-cfb3-4918-b801-46f9750fe739
+    - 6a46c969-ed65-4975-b122-32282b4883b6: d0be1aa4-5ad5-4fab-ba71-113639753cee
+    - 766069d1-fdb8-471d-9d49-db5aedb45d82: 90772123-752f-43e3-9bcd-12c83d8a7116
+    - 8ccf8a7e-98f9-44a2-9a61-f599bbcaa843: ea28f0e9-2fb0-4cfe-96bb-7d6adee81fe2
+    - a0cda7de-92ea-42f1-a3fe-6ed902ba40a5: 6581561d-8232-45b1-beb6-1f6cd9277c21
+    - b0e5362b-63a5-4d7d-8e0a-f1703162b71c: ab1595ce-bddd-4e90-a56f-982be0d4dbf1
+    - d2f4c21b-265b-4260-9af5-33959e050b92: 3b0fb7ef-414e-46f0-b947-ab76b9f421f9
+    - ddaa9547-f6ad-4f63-8c91-20a0c0337757: 669a96c9-3811-4441-993a-94a42eada7df
+    - de38ff0e-e466-4fd6-8650-06e0daae3ef2: f334b913-59a7-4a47-9040-8696030fa45a
+  SourceState: !<own> fdadd3e1-b5fd-48c2-80c3-9503b1d4c693
+- !<SceneObject/a251bb10-3317-4387-8cd5-73b81f66f027>
+  PrefabRemaps:
+    []
+  Name: BitmojiFood__PLACE_IN_OBJECTS_PANEL
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 669a96c9-3811-4441-993a-94a42eada7df
+  Components:
+    []
+- !<SceneObject/ab1595ce-bddd-4e90-a56f-982be0d4dbf1>
+  PrefabRemaps:
+    []
+  Name: geo_GRP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 57455584-001e-4bff-b83d-4beb71ea583e
+    - !<own> ea28f0e9-2fb0-4cfe-96bb-7d6adee81fe2
+  Components:
+    []
+- !<Skin/bcd8b300-b8b7-49ba-bc04-b885c275715f>
+  PrefabRemaps:
+    []
+  Name: component_4
+  Enabled: true
+  skinBones:
+    C_appleTrapDoor_GEO: !<reference> ea28f0e9-2fb0-4cfe-96bb-7d6adee81fe2
+    C_basket_GEO: !<reference> 57455584-001e-4bff-b83d-4beb71ea583e
+    C_basket_bind_JNT: !<reference> ec0a6696-2d5a-4434-bbe6-32be178a9514
+    C_trapDoor_bind_JNT: !<reference> 3b0fb7ef-414e-46f0-b947-ab76b9f421f9
+    PROP: !<reference> f334b913-59a7-4a47-9040-8696030fa45a
+    basket_apples_bindrig: !<reference> 669a96c9-3811-4441-993a-94a42eada7df
+    bind_GRP: !<reference> 77328e9a-cfb3-4918-b801-46f9750fe739
+    geo_GRP: !<reference> ab1595ce-bddd-4e90-a56f-982be0d4dbf1
+    rig_GRP: !<reference> 024b61db-15ba-423b-964c-4a1b36bfe8c6
+- !<RenderMeshVisual/d0be1aa4-5ad5-4fab-ba71-113639753cee>
+  PrefabRemaps:
+    []
+  Name: component_2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 4a8241df-b6f3-41b4-b69d-6f7c9a4b7487
+  Mesh: !<reference> 8a592015-5794-4c13-8c56-b43d843893e1
+  Skin: !<reference> bcd8b300-b8b7-49ba-bc04-b885c275715f
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ea28f0e9-2fb0-4cfe-96bb-7d6adee81fe2>
+  PrefabRemaps:
+    []
+  Name: C_appleTrapDoor_GEO
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d0be1aa4-5ad5-4fab-ba71-113639753cee
+- !<SceneObject/ec0a6696-2d5a-4434-bbe6-32be178a9514>
+  PrefabRemaps:
+    []
+  Name: C_basket_bind_JNT
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    []
+- !<SceneObject/f334b913-59a7-4a47-9040-8696030fa45a>
+  PrefabRemaps:
+    []
+  Name: PROP
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 024b61db-15ba-423b-964c-4a1b36bfe8c6
+    - !<own> ab1595ce-bddd-4e90-a56f-982be0d4dbf1
+  Components:
+    []
+- !<ObjectPrefab/fdadd3e1-b5fd-48c2-80c3-9503b1d4c693>
+  PackagePath: ""
+  objects:
+    - !<own> a251bb10-3317-4387-8cd5-73b81f66f027
+  LazyLoading: false
+  RetainAssets: true
+- !<BodyComponent/ff1c9a59-d578-4a70-9988-dd0175f3ed68>
+  PrefabRemaps:
+    []
+  Name: Physics Body
+  Enabled: true
+  Shape: !<Mesh/00000000-0000-0000-0000-000000000000>
+    Mesh: !<reference> 8a592015-5794-4c13-8c56-b43d843893e1
+    Convex: false
+    Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  Matter: !<reference> 00000000-0000-0000-0000-000000000000
+  Filter: !<reference> 00000000-0000-0000-0000-000000000000
+  OverlapFilter: !<reference> 00000000-0000-0000-0000-000000000000
+  WorldSettings: !<reference> 00000000-0000-0000-0000-000000000000
+  EnableSmoothing: false
+  PositionTension: 30.000000
+  RotationTension: 30.000000
+  ForceCompound: false
+  Intangible: false
+  ShowCollider: false
+  Dynamic: false
+  BodySetting: Density
+  BodySettingValue: 1.000000
+  Damping: 0.000000
+  AngularDamping: 0.000000

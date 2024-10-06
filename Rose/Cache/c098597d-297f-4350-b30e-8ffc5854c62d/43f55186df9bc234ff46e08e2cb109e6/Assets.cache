@@ -1,0 +1,18 @@
+- !<AssetCache/43f55186-df9b-c234-ff46-e08e2cb109e6>
+  AssetFiles:
+    46225113-dcc4-4e7c-83a2-5ce7c75c8cd3: c098597d-297f-4350-b30e-8ffc5854c62d/43f55186df9bc234ff46e08e2cb109e6/Data/C_bowlofchips_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/46225113-dcc4-4e7c-83a2-5ce7c75c8cd3>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 521
+        Vertices: 378
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 43f55186df9bc234ff46e08e2cb109e6
+  FileHash: 37dc37419d0d16ef8f529e071de32ffa
+  NativePackageItems:
+    []

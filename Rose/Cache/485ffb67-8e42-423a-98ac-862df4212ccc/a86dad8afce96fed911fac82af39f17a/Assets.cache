@@ -1,0 +1,15 @@
+- !<AssetCache/a86dad8a-fce9-6fed-911f-ac82af39f17a>
+  AssetFiles:
+    59ed3674-816a-45ac-925c-7b5c2cd7a313: 485ffb67-8e42-423a-98ac-862df4212ccc/a86dad8afce96fed911fac82af39f17a/Data/pickle_color.png
+  AssetCurrentFiles:
+    59ed3674-816a-45ac-925c-7b5c2cd7a313: 485ffb67-8e42-423a-98ac-862df4212ccc/a86dad8afce96fed911fac82af39f17a/Data/Performance/Medium/pickle_color.pvr
+  Assets:
+    - !<FileTexture/59ed3674-816a-45ac-925c-7b5c2cd7a313>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: a86dad8afce96fed911fac82af39f17a
+  FileHash: 46807e1a41c2a3e8affeeb0f1bd68c64
+  NativePackageItems:
+    []

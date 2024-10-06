@@ -1,0 +1,18 @@
+- !<AssetCache/29485c55-ca04-92ee-4567-dd277a3652f8>
+  AssetFiles:
+    17da4962-55ae-4a52-8847-9118eb556051: be098ca2-b41f-4994-a297-b5fe9ca8b428/29485c55ca0492ee4567dd277a3652f8/Data/C_pie_shatter_1_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/17da4962-55ae-4a52-8847-9118eb556051>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 502
+        Vertices: 417
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 29485c55ca0492ee4567dd277a3652f8
+  FileHash: f955c3184ad7474fe19c3eee4e10974f
+  NativePackageItems:
+    []

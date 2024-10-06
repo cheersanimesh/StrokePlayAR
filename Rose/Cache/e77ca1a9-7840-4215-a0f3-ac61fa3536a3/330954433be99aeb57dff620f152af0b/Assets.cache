@@ -1,0 +1,15 @@
+- !<AssetCache/33095443-3be9-9aeb-57df-f620f152af0b>
+  AssetFiles:
+    482133ea-8d4e-45bd-b2b0-abff17eb40fe: e77ca1a9-7840-4215-a0f3-ac61fa3536a3/330954433be99aeb57dff620f152af0b/Data/popcorn_color.png
+  AssetCurrentFiles:
+    482133ea-8d4e-45bd-b2b0-abff17eb40fe: e77ca1a9-7840-4215-a0f3-ac61fa3536a3/330954433be99aeb57dff620f152af0b/Data/Performance/Medium/popcorn_color.pvr
+  Assets:
+    - !<FileTexture/482133ea-8d4e-45bd-b2b0-abff17eb40fe>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 330954433be99aeb57dff620f152af0b
+  FileHash: 6ce64b852fa2881d2aa5549650513198
+  NativePackageItems:
+    []

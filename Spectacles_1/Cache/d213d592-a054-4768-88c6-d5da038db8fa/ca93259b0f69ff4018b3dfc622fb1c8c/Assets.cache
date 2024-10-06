@@ -1,0 +1,15 @@
+- !<AssetCache/ca93259b-0f69-ff40-18b3-dfc622fb1c8c>
+  AssetFiles:
+    62e8287d-1993-4886-9b9e-89c94446d181: d213d592-a054-4768-88c6-d5da038db8fa/ca93259b0f69ff4018b3dfc622fb1c8c/Data/camera_color.png
+  AssetCurrentFiles:
+    62e8287d-1993-4886-9b9e-89c94446d181: d213d592-a054-4768-88c6-d5da038db8fa/ca93259b0f69ff4018b3dfc622fb1c8c/Data/Performance/Medium/camera_color.pvr
+  Assets:
+    - !<FileTexture/62e8287d-1993-4886-9b9e-89c94446d181>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: ca93259b0f69ff4018b3dfc622fb1c8c
+  FileHash: 8b19c3224e4a54041a9dcaaedcc9f040
+  NativePackageItems:
+    []

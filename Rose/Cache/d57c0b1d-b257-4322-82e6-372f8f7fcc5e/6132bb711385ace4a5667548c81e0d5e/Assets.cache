@@ -1,0 +1,15 @@
+- !<AssetCache/6132bb71-1385-ace4-a566-7548c81e0d5e>
+  AssetFiles:
+    8fb9e438-1546-4fa3-97f0-04541323f663: d57c0b1d-b257-4322-82e6-372f8f7fcc5e/6132bb711385ace4a5667548c81e0d5e/Data/marshmallow_color.png
+  AssetCurrentFiles:
+    8fb9e438-1546-4fa3-97f0-04541323f663: d57c0b1d-b257-4322-82e6-372f8f7fcc5e/6132bb711385ace4a5667548c81e0d5e/Data/Performance/Medium/marshmallow_color.pvr
+  Assets:
+    - !<FileTexture/8fb9e438-1546-4fa3-97f0-04541323f663>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 256
+        Height: 256
+  SourceHash: 6132bb711385ace4a5667548c81e0d5e
+  FileHash: 60cba202bf492fc45ba1063b4d7a9a56
+  NativePackageItems:
+    []

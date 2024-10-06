@@ -1,0 +1,15 @@
+- !<AssetCache/59168b0b-910b-a2d9-7608-9c8b443d478c>
+  AssetFiles:
+    d27732a3-8fef-4029-917a-f0da631297d5: d9802925-5543-497a-b1c1-830184467a3d/59168b0b910ba2d976089c8b443d478c/Data/phone_tablet_color.png
+  AssetCurrentFiles:
+    d27732a3-8fef-4029-917a-f0da631297d5: d9802925-5543-497a-b1c1-830184467a3d/59168b0b910ba2d976089c8b443d478c/Data/Performance/Medium/phone_tablet_color.pvr
+  Assets:
+    - !<FileTexture/d27732a3-8fef-4029-917a-f0da631297d5>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 59168b0b910ba2d976089c8b443d478c
+  FileHash: 7027422d827753d7b2b08d3b7fa8c4de
+  NativePackageItems:
+    []

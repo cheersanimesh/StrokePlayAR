@@ -1,0 +1,15 @@
+- !<AssetCache/3042d1e4-313d-5f80-7a72-ffba925cb8b9>
+  AssetFiles:
+    11fd17ed-4412-40f2-918b-4cc907921698: f89ddbad-84c5-4624-8d69-d3bb735655f1/3042d1e4313d5f807a72ffba925cb8b9/Data/cereal_box_color.png
+  AssetCurrentFiles:
+    11fd17ed-4412-40f2-918b-4cc907921698: f89ddbad-84c5-4624-8d69-d3bb735655f1/3042d1e4313d5f807a72ffba925cb8b9/Data/Performance/Medium/cereal_box_color.pvr
+  Assets:
+    - !<FileTexture/11fd17ed-4412-40f2-918b-4cc907921698>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 2048
+        Height: 2048
+  SourceHash: 3042d1e4313d5f807a72ffba925cb8b9
+  FileHash: 6da34abb46cf4753dc017c455f6d1b1a
+  NativePackageItems:
+    []

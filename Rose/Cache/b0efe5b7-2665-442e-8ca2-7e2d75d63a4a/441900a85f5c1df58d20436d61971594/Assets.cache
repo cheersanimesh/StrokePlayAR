@@ -1,0 +1,15 @@
+- !<AssetCache/441900a8-5f5c-1df5-8d20-436d61971594>
+  AssetFiles:
+    d59e9881-9336-4890-8a13-1cf47116b1b6: b0efe5b7-2665-442e-8ca2-7e2d75d63a4a/441900a85f5c1df58d20436d61971594/Data/bowl_of_chips_color.png
+  AssetCurrentFiles:
+    d59e9881-9336-4890-8a13-1cf47116b1b6: b0efe5b7-2665-442e-8ca2-7e2d75d63a4a/441900a85f5c1df58d20436d61971594/Data/Performance/Medium/bowl_of_chips_color.pvr
+  Assets:
+    - !<FileTexture/d59e9881-9336-4890-8a13-1cf47116b1b6>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 512
+        Height: 512
+  SourceHash: 441900a85f5c1df58d20436d61971594
+  FileHash: d511e4e15c817cb9be4813da67b0c158
+  NativePackageItems:
+    []

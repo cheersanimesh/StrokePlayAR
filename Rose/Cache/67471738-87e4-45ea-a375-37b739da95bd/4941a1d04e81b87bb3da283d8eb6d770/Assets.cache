@@ -1,0 +1,18 @@
+- !<AssetCache/4941a1d0-4e81-b87b-b3da-283d8eb6d770>
+  AssetFiles:
+    84b77004-db6e-43ae-9cb0-1135977e0f9d: 67471738-87e4-45ea-a375-37b739da95bd/4941a1d04e81b87bb3da283d8eb6d770/Data/C_pie_slice_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/84b77004-db6e-43ae-9cb0-1135977e0f9d>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 72
+        Vertices: 92
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 4941a1d04e81b87bb3da283d8eb6d770
+  FileHash: 73f4289ba37cee28b82d44769ad1337a
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/e406798a-00f2-6ece-9547-2744fe01d8f8>
+  AssetFiles:
+    84178424-8a60-4567-b881-90e228de0e1c: 78aaf295-57c4-4957-9800-e2f19512430f/e406798a00f26ece95472744fe01d8f8/Data/Turkey_color.png
+  AssetCurrentFiles:
+    84178424-8a60-4567-b881-90e228de0e1c: 78aaf295-57c4-4957-9800-e2f19512430f/e406798a00f26ece95472744fe01d8f8/Data/Performance/Medium/Turkey_color.pvr
+  Assets:
+    - !<FileTexture/84178424-8a60-4567-b881-90e228de0e1c>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: e406798a00f26ece95472744fe01d8f8
+  FileHash: 35f722070fe805da4b6b5ae0ef31069e
+  NativePackageItems:
+    []

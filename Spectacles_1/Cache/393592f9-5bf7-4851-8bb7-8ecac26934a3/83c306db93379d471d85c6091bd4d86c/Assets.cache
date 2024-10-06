@@ -1,0 +1,18 @@
+- !<AssetCache/83c306db-9337-9d47-1d85-c6091bd4d86c>
+  AssetFiles:
+    2adfe4bf-8297-4ae3-8e66-2fe7dda94dbf: 393592f9-5bf7-4851-8bb7-8ecac26934a3/83c306db93379d471d85c6091bd4d86c/Data/Labtable.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/2adfe4bf-8297-4ae3-8e66-2fe7dda94dbf>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 92
+        Vertices: 112
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 83c306db93379d471d85c6091bd4d86c
+  FileHash: 680d7330055d4dc4e9894ae0baa9e0a2
+  NativePackageItems:
+    []

@@ -1,0 +1,18 @@
+- !<AssetCache/eaef5e6a-f4f8-f953-22e5-4e476b0e9828>
+  AssetFiles:
+    0bcfa649-dee2-4144-9bf8-54ba0d90c0c6: 8632a3d7-6900-4abc-913f-5d4c99b3e1e8/eaef5e6af4f8f95322e54e476b0e9828/Data/C_ballJoint_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/0bcfa649-dee2-4144-9bf8-54ba0d90c0c6>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 476
+        Vertices: 359
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: eaef5e6af4f8f95322e54e476b0e9828
+  FileHash: 84001b599ac6f8893bf0a619057e03a4
+  NativePackageItems:
+    []

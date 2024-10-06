@@ -1,0 +1,18 @@
+- !<AssetCache/83046965-7c1b-7f70-b171-9030888e9985>
+  AssetFiles:
+    5947da95-566a-487f-9c5e-77639c78fcaf: 3846b4bb-daf3-4dc7-a608-d1b3d7ce0fb9/830469657c1b7f70b1719030888e9985/Data/Sphere.mesh
+  AssetCurrentFiles:
+    5947da95-566a-487f-9c5e-77639c78fcaf: 3846b4bb-daf3-4dc7-a608-d1b3d7ce0fb9/830469657c1b7f70b1719030888e9985/Data/Sphere.mesh
+  Assets:
+    - !<FileMesh/5947da95-566a-487f-9c5e-77639c78fcaf>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 960
+        Vertices: 559
+        Blendshapes:
+          []
+        Joints: 0
+  SourceHash: 830469657c1b7f70b1719030888e9985
+  FileHash: 2561343125906910604c5c9a701fa5de
+  NativePackageItems:
+    []

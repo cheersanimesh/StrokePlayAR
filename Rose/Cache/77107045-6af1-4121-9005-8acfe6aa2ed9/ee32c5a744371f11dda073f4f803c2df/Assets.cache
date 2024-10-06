@@ -1,0 +1,18 @@
+- !<AssetCache/ee32c5a7-4437-1f11-dda0-73f4f803c2df>
+  AssetFiles:
+    e7f7ba1f-1fb7-412e-afd7-4cd8182c6ffd: 77107045-6af1-4121-9005-8acfe6aa2ed9/ee32c5a744371f11dda073f4f803c2df/Data/C_burger_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/e7f7ba1f-1fb7-412e-afd7-4cd8182c6ffd>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 64
+        Vertices: 97
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: ee32c5a744371f11dda073f4f803c2df
+  FileHash: 9d0d5b599644579453382fca26cd4ec1
+  NativePackageItems:
+    []

@@ -1,0 +1,15 @@
+- !<AssetCache/be78a15b-cd67-6a16-0f98-ebc3fb3f9662>
+  AssetFiles:
+    15d2552c-4aac-472f-9797-dfc7a0d5d248: 025c72ec-af2a-4100-a336-c0344a158fbc/be78a15bcd676a160f98ebc3fb3f9662/Data/cookie_color.png
+  AssetCurrentFiles:
+    15d2552c-4aac-472f-9797-dfc7a0d5d248: 025c72ec-af2a-4100-a336-c0344a158fbc/be78a15bcd676a160f98ebc3fb3f9662/Data/Performance/Medium/cookie_color.pvr
+  Assets:
+    - !<FileTexture/15d2552c-4aac-472f-9797-dfc7a0d5d248>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo/00000000-0000-0000-0000-000000000000>
+        Width: 1024
+        Height: 1024
+  SourceHash: be78a15bcd676a160f98ebc3fb3f9662
+  FileHash: 990f98e5794fad425aec63be61a78931
+  NativePackageItems:
+    []

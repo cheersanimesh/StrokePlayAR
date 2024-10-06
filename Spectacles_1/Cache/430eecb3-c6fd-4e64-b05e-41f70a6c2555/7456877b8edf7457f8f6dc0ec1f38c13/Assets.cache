@@ -1,0 +1,18 @@
+- !<AssetCache/7456877b-8edf-7457-f8f6-dc0ec1f38c13>
+  AssetFiles:
+    a919799c-c45c-4f75-8020-ee6c282eedee: 430eecb3-c6fd-4e64-b05e-41f70a6c2555/7456877b8edf7457f8f6dc0ec1f38c13/Data/C_phone_GEO.mesh
+  AssetCurrentFiles:
+    {}
+  Assets:
+    - !<FileMesh/a919799c-c45c-4f75-8020-ee6c282eedee>
+      PackagePath: ""
+      Info: !<MeshInfo/00000000-0000-0000-0000-000000000000>
+        Triangles: 28
+        Vertices: 40
+        Blendshapes:
+          []
+        Joints: 1
+  SourceHash: 7456877b8edf7457f8f6dc0ec1f38c13
+  FileHash: 790b098e88762db04d4313552a36383b
+  NativePackageItems:
+    []
